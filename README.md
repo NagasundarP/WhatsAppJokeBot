@@ -1,1 +1,1 @@
-## It is a personalized whatsapp jokw chat bot
+## It is a personalized whatsapp joke chat bot
